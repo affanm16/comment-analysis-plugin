@@ -1,7 +1,0 @@
-[33mc1b3810[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: reset: moving to HEAD~3
-[33m391edba[m HEAD@{1}: commit (amend): mlflow server setup
-[33mad1045a[m HEAD@{2}: commit: mlflow server setup
-[33m09ef9ab[m HEAD@{3}: commit: mlflow server
-[33m0b89415[m HEAD@{4}: commit: setting up the mlflow server
-[33mc1b3810[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{5}: commit: adding the eda and the pre processing code
-[33m0bd62c1[m HEAD@{6}: clone: from https://github.com/affanm16/comment-analysis-plugin.git
